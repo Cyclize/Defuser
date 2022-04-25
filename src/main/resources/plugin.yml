@@ -1,0 +1,7 @@
+name: Defuser
+version: '${version}'
+main: dev.luckynetwork.cyclize.defuser.Defuser
+prefix: [ Defuser ]
+load: STARTUP
+authors: [ Cyclize ]
+description: Defuse TNTs by right-clicking them
